@@ -1,6 +1,6 @@
 '''pca_cov.py
 Performs principal component analysis using the covariance matrix approach
-YOUR NAME HERE
+Hannah Soria
 CS 251/2 Data Analysis Visualization
 Spring 2023
 '''
